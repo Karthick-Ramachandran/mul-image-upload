@@ -3,7 +3,7 @@ image upload
 
 
 
-Fine-uploader Multi image uploading plugin
+Fine-uploader : easy Multi image uploading plugin.
 
 
 
